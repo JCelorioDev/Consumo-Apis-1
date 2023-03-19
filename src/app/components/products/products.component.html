@@ -1,0 +1,9 @@
+<div class="card" *ngFor="let item of data" style="width: 20rem;">
+    <img src="{{item.images}}" class="card-img-top" alt="...">
+    <div class="card-body">
+      <h5 class="card-title">{{item.title}}</h5>
+      <p class="card-text">{{item.description}}</p>
+      <span class="badge text-bg-danger">Category: {{item.category.name}}</span> <br> <br>
+      <a href="#" class="btn btn-primary">Precio: &dollar;{{item.price}}</a>
+    </div>
+  </div>

@@ -1,0 +1,10 @@
+.card{
+    text-align: center;
+    margin: 10px 0;
+    position: relative;
+    left: 520px;
+}
+
+.badge{
+    margin: 0 10px;
+}
