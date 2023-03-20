@@ -1,1 +1,7 @@
-/* You can add global styles to this file, and also import other style files */
+body{
+    background-image: url("https://d30o7qbghf97ws.cloudfront.net/sell_clothes/sell_two_banner_2_mobile.png");
+    background-color: #cccccc;
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center;
+}
