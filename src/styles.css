@@ -1,5 +1,5 @@
 body{
-    background-image: url("https://d30o7qbghf97ws.cloudfront.net/sell_clothes/sell_two_banner_2_mobile.png");
+    background-image: linear-gradient(to right, rgba(255, 255, 255, 0), rgb(144, 137, 137));
     background-color: #cccccc;
     background-size: contain;
     background-repeat: no-repeat;
